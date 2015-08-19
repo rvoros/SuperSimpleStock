@@ -1,1 +1,2 @@
-# SuperSimpleStock
+# supersimplestock
+Super simple stock
